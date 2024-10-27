@@ -1,10 +1,10 @@
-# Distrubed Hubs
+# Distributed Hubs
 
-Distrubed Hubs networks
+Distributed Hubs networks
 
 # License
 
-Distrubed Hubs networks
+Distributed Hubs networks
 
 Copyright (C) 2024-2025 QB Networks
 
